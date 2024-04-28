@@ -748,7 +748,7 @@ void banner()	{
 	tft.print("An oscilloscope built using STM32 over Atmega32u4");
 
 	tft.setCursor(30, 95);
-	tft.print("Assembled by: ");
+	tft.print("Programmed by: ");
 	tft.setTextColor(ILI9341_YELLOW, ILI9341_BLACK);
 	tft.print("Cruz, Levantino, Agustin, Sanchez, Laguitao, Tomale, Carullo");
 
