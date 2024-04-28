@@ -1,6 +1,6 @@
 # ArduiCilloscope
 
-An STM32 based arduino oscilloscope that run over Atmega32u4
+An STM32 based arduino oscilloscope that runs over Atmega32u4
 
 # Features 
 
