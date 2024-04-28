@@ -22,4 +22,4 @@ An STM32 based arduino oscilloscope that runs over Atmega32u4
 
 # Disclaimer
 
-This is a project made by computer engineering students at Asian Institute of Computer Studies 
+This is a project made by **Computer Engineering** students at Asian Institute of Computer Studies 
